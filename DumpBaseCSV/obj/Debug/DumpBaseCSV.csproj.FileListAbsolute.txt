@@ -1,1 +1,10 @@
 C:\Users\Mohammed Achraf\Desktop\ImportExportCSV\DumpBaseCSV\DumpBaseCSV\bin\Debug\DumpBaseCSV.exe.config
+E:\github\DumpBaseCSV\DumpBaseCSV\bin\Debug\DumpBaseCSV.exe.config
+E:\github\DumpBaseCSV\DumpBaseCSV\obj\Debug\DumpBaseCSV.MainWindow.resources
+E:\github\DumpBaseCSV\DumpBaseCSV\obj\Debug\DumpBaseCSV.Properties.Resources.resources
+E:\github\DumpBaseCSV\DumpBaseCSV\obj\Debug\DumpBaseCSV.csproj.GenerateResource.Cache
+E:\github\DumpBaseCSV\DumpBaseCSV\bin\Debug\DumpBaseCSV.exe
+E:\github\DumpBaseCSV\DumpBaseCSV\bin\Debug\DumpBaseCSV.pdb
+E:\github\DumpBaseCSV\DumpBaseCSV\obj\Debug\DumpBaseCSV.exe
+E:\github\DumpBaseCSV\DumpBaseCSV\obj\Debug\DumpBaseCSV.pdb
+E:\github\DumpBaseCSV\DumpBaseCSV\obj\Debug\DumpBaseCSV.csprojResolveAssemblyReference.cache
